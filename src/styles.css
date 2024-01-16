@@ -1,0 +1,9 @@
+.Contain{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.inputs{
+    height: 3rem;
+    width: 30rem;
+}
